@@ -1,1 +1,1 @@
-worker: python valtriak.py
+worker: python arctic.py
